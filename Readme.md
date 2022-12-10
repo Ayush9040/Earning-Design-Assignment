@@ -11,7 +11,7 @@
 
 ![App Screenshot](https://github.com/Ayush9040/Earning-Design-Assignment/blob/master/screenshots/travel.jpg)
 
-## Screenshots
+## Web Design Created By Ayush Aggarwal
 
 ![App Screenshot](https://github.com/Ayush9040/Earning-Design-Assignment/blob/master/screenshots/Screenshot%20(17).png)
 ![App Screenshot](https://github.com/Ayush9040/Earning-Design-Assignment/blob/master/screenshots/Screenshot%20(16).png)
