@@ -21,5 +21,5 @@
 
 ## Deployment
 
-[Travelo](https://www.google.com)
+[Travelo](https://assignment-submit.netlify.app/)
 
