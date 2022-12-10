@@ -9,14 +9,14 @@
 ## Figma Design Given
 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Ayush9040/Earning-Design-Assignment/blob/master/screenshots/travel.jpg)
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Ayush9040/Earning-Design-Assignment/blob/master/screenshots/Screenshot%20(17).png)
+![App Screenshot](https://github.com/Ayush9040/Earning-Design-Assignment/blob/master/screenshots/Screenshot%20(16).png)
+![App Screenshot](https://github.com/Ayush9040/Earning-Design-Assignment/blob/master/screenshots/Screenshot%20(15).png)
+![App Screenshot](https://github.com/Ayush9040/Earning-Design-Assignment/blob/master/screenshots/Screenshot%20(14).png)
 
 
 ## Deployment
